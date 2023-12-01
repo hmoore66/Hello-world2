@@ -1,4 +1,4 @@
 # Tate-Colab-Repo
 Learning Repo
 
-My Name is Tate, and This is my Google Colab Notebook
+My Name is Tate, and This is my Google Colab Notebooks repository
